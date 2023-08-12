@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Solyanovo</string>
+    <string name="activity_hello_user">HelloUser</string>
+    <string name="text_spisok">Список студентов</string>
+    <string name="add_btn">+ Добавить студента</string>
+</resources>
