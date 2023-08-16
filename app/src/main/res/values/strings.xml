@@ -3,4 +3,11 @@
     <string name="activity_hello_user">HelloUser</string>
     <string name="text_spisok">Список студентов</string>
     <string name="add_btn">+ Добавить студента</string>
+    <string name="text_student">Студент</string>
+    <string name="save_btn">Сохранить</string>
+    <string name="delete_btn">Удалить</string>
+    <string name="male_radiobtn">МУЖ</string>
+    <string name="female_radiobtn">ЖЕН</string>
+    <string name="exception_name">Введите имя</string>
+    <string name="exception_surname">Введите фамилию</string>
 </resources>

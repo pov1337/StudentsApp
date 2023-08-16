@@ -1,5 +1,7 @@
 package ru.faizyev.solyanovo;
 
+import android.graphics.drawable.Drawable;
+
 public class Student {
 
     private String name;
@@ -15,6 +17,13 @@ public class Student {
         this.surname = surname;
         this.gender = gender;
         this.avatar = avatar;
+    }
+
+
+    public Student(String name, String surname, Gender gender) {
+        this.name = name;
+        this.surname = surname;
+        this.gender = gender;
     }
 
 
